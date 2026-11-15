@@ -1,0 +1,6 @@
+My GitHub learning goals:
+
+1. Learn how to use GitHub
+2. Understand commits and pushes
+3. Learn how to create branches
+4. Publish my own website
