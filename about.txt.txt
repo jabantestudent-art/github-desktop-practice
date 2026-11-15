@@ -1,0 +1,5 @@
+Name: Jake James Abante
+GitHub Username: jabantestudent-art
+Course: BSIT 2A
+
+This repository is created for my GitHub hands-on.
