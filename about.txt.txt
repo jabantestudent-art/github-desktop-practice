@@ -3,3 +3,14 @@ GitHub Username: jabantestudent-art
 Course: BSIT 2A
 
 This repository is created for my GitHub hands-on.
+
+My Hobbies:
+
+- Listening to music
+- Learning about technology
+- Exploring mobile applications
+
+My skills and interests:
+
+- Basic programming
+- Simple Mobile front end development
